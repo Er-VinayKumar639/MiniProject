@@ -1,5 +1,6 @@
+```
 "Rock Paper and Scissors Game"
-
+```
 ```It is a mini project developed by VINAY KUMAR ```
 ```I used HTML, CSS and JavaScript to make it work properly.
 
